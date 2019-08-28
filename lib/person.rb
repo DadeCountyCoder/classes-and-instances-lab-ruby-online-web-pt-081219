@@ -2,5 +2,5 @@ class Person
   
 end
 
-adele_goldberg.new
-alan_kay.new
+adele_goldberg
+alan_kay
